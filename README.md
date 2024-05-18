@@ -1,4 +1,4 @@
-# QNN-for-MNIST-Dataset-Classification - Parameterization of Quantum Neurel Networks for Universal Applications !!!
+# QNN-for-MNIST-Dataset-Classification - Parameterization of Quantum Neural Networks for Universal Applications !!!
 
 A Parameterization approach of QNN is implemented for MNIST Dataset classification with accuracy of 80 percent using 1860 parameters i.e. 186 params per digit and 8 qubits for MNIST image dataset of digit pixel size of  16x16 grey scale . The accuracy can be increased by increasing the depth of the Quantum Circuit i.e. the number of params , tweaking with the loss function (here cosine similarity is used) ,increasing the number of qubits i.e. increasing the number of pixels , adding a nonlinear classical activation function for increasing the accuracy, also better ways of clustering can be explored. 
 This forms a general design of Quantum circuit designed by me that can be paramerized as per the application dataset.
